@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot2-jpa-swagger2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: L0774979
+Implementation-Vendor-Id: ar.com.pablo
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/apirest01
+Created-By: Maven Integration for Eclipse
+
